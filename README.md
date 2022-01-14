@@ -11,3 +11,5 @@ Some of my work:
 * [Linear-Algebra-Functions](https://github.com/adu3110/Linear-Algebra-Functions) - The purpose of this project is to create a repository of functions for commonly used algorithms in Linear Algebra.
 
 * [Baysian-Event-Study](https://github.com/adu3110/Baysian-Event-Study) - I developed an event study statistics in Bayesian Paradigm of Statistics - Language used R
+
+and some fun work is pinned below :)
