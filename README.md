@@ -1,6 +1,6 @@
 ### Hi there 👋 I'am Aditi
 
-Check out my [website](https://aditichatterji.io/), [LinkedIn](https://www.linkedin.com/in/aditi-t-69082b75/) and [resume](https://drive.google.com/file/d/1ZBZUogM2eMOz4wnZoNmcyHgiZcPK4UWY/view?usp=drive_link) or browse some of work below!
+Check out my [website](https://aditichatterji.io/), [LinkedIn](https://www.linkedin.com/in/aditi-chatterji-69082b75/) and [resume](https://drive.google.com/file/d/1JP9RrpsbWrfr-a8cW2iAHMitUw9ClhY8/view) or browse some of work below!
 
 Some of my work:
 
